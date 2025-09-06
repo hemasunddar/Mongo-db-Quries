@@ -1,0 +1,128 @@
+[
+    {
+        "no": 1,
+        "name": "Hema",
+        "age": 20,
+        "course": "Data Science",
+        "marks": 85,
+        "city": "Chennai",
+        "email": "hema12@gmail.com"
+    },
+    {
+        "no": 2,
+        "name": "Saaii",
+        "age": 21,
+        "course": "AI",
+        "marks": 92,
+        "city": "Bangalore",
+        "email": "saaii@example.com"
+    },
+    {
+        "no": 3,
+        "name": "Srinivas",
+        "age": 22,
+        "course": "Web Development",
+        "marks": 84,
+        "city": "Hyderabad",
+        "email": "srinivas@microsoft.com"
+    },
+    {
+        "no": 4,
+        "name": "Anish",
+        "age": 23,
+        "course": "AI",
+        "marks": 65,
+        "city": "Chennai",
+        "email": "anish@gmail.com"
+    },
+    {
+        "no": 5,
+        "name": "Samson",
+        "age": 20,
+        "course": "Data Science",
+        "marks": 90,
+        "city": "Pune",
+        "email": "samson@zeno.com"
+    },
+    {
+        "no": 6,
+        "name": "Joshi",
+        "age": 21,
+        "course": "Cyber Security",
+        "marks": 40,
+        "city": "Delhi",
+        "email": "joshi@gmail.com"
+    },
+    {
+        "no": 7,
+        "name": "Charan",
+        "age": 22,
+        "course": "AI",
+        "marks": 78,
+        "city": "Chennai",
+        "email": "charan@gmail.com"
+    },
+    {
+        "no": 8,
+        "name": "Sathya",
+        "age": 23,
+        "course": "Web Development",
+        "marks": 91,
+        "city": "Bangalore",
+        "email": "sathya@example.com"
+    },
+    {
+        "no": 10,
+        "name": "Purni",
+        "age": 20,
+        "course": "Data Science",
+        "marks": 88,
+        "city": "Delhi",
+        "email": "purni@zeno.com"
+    },
+    {
+        "no": 11,
+        "name": "Ranga",
+        "age": 22,
+        "course": "Web Development",
+        "marks": 70,
+        "city": "Hyderabad",
+        "email": "Ranga@example.com"
+    },
+    {
+        "no": 12,
+        "name": "Anshu",
+        "age": 23,
+        "course": "AI",
+        "marks": 95,
+        "city": "Chennai",
+        "email": "anshu@gmail.com"
+    },
+    {
+        "no": 13,
+        "name": "Jordi",
+        "age": 21,
+        "course": "Cyber Security",
+        "marks": 55,
+        "city": "Pune",
+        "email": "jordi@gmail.com"
+    },
+    {
+        "no": 14,
+        "name": "Lakshmi",
+        "age": 20,
+        "course": "Web Development",
+        "marks": 89,
+        "city": "Delhi",
+        "email": "lakshmi@example.com"
+    },
+    {
+        "no": 15,
+        "name": "Rohit",
+        "age": 22,
+        "course": "AI",
+        "marks": 99,
+        "city": "Bangalore",
+        "email": "rohit@example.com"
+    }
+]
